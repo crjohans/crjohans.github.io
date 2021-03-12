@@ -70,9 +70,8 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(140, 26, 255, .70); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
 }
 
    
@@ -101,7 +100,9 @@ h2 {
 }
 
 p {
-	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		;
+	font-family: helvetica, serif;
+	font-size: 2em;
+    margin: 0px auto 10px auto;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
