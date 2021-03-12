@@ -153,7 +153,6 @@ a{
     font-weight: bold;
 }
 a:hover{
-    color:white;
     background:#FFD700;
     opacity: .6; 
 }
