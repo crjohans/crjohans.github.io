@@ -67,13 +67,17 @@ html, body {
 }
 
 .center {
-    width: 800px;
+    width: 200px;
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(255, 255, 255, .75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 }
 
+.center2 {
+    
+
+}
    
 #logo {
     margin-bottom: 16px;
