@@ -119,6 +119,16 @@ p {
     color: white;
 }
 
+p2 {
+    font-family: helvetica, serif;
+    font-weight: bold;
+	font-size: 2em;
+    margin: 0px auto 10px auto;
+	font-size: 1.2em;
+    line-height: 1.6;
+    color: white;
+}
+
 nav{
     font-family: garamond;
     font-size: 1.2em;
@@ -145,4 +155,5 @@ a{
 a:hover{
     color:white;
     background:#FFD700;
+    opacity: .6; 
 }
