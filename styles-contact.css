@@ -68,6 +68,7 @@ html, body {
 
 .center {
     width: 200px;
+    border-radius: 20px;
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(255, 255, 255, .75); /*this uses opacity of 75% for the background color*/
@@ -75,14 +76,16 @@ html, body {
 }
 
 .center2 {
-    width: 200px;
-    height: 300px;
     padding: 2%;
     margin: 50px auto;
-    background: rgba(255, 255, 255, .75);
     text-align: center;
 }
    
+.center3 {
+    padding: 2%;
+    text-align: center;
+}
+
 #logo {
     margin-bottom: 16px;
 	text-align: center;
