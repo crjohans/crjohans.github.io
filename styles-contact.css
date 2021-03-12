@@ -116,8 +116,7 @@ p {
     margin: 0px auto 10px auto;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: black;
-    opacity: .80;
+    color: white;
 }
 
 nav{
@@ -139,11 +138,11 @@ nav a{
 }
 
 a{
-    color:#444;
+    color:#fff;
     text-decoration: none;
     font-weight: bold;
 }
 a:hover{
-    color:black;
-    background:white;
+    color:white;
+    background:#FFD700;
 }
