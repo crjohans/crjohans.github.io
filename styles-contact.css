@@ -75,8 +75,12 @@ html, body {
 }
 
 .center2 {
-    
-
+    width: 200px;
+    height: 300px;
+    padding: 2%;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, .75);
+    text-align: center;
 }
    
 #logo {
