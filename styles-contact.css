@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/bricks-bg.jpg)
+  background: url(images/purple-bg.jpg)
 	center center fixed no-repeat;
     background-size: cover;
 	
@@ -70,7 +70,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(255, 255, 255, .70); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(255, 255, 255, .90); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 }
 
@@ -105,7 +105,8 @@ p {
     margin: 0px auto 10px auto;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: black;
+    opacity: .80;
 }
 
 nav{
