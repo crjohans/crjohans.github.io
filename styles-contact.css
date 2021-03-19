@@ -71,7 +71,7 @@ html, body {
     border-radius: 20px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(255, 255, 255, .75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(255, 255, 255, .85); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 }
 
@@ -121,7 +121,7 @@ p {
 
 p2 {
     font-family: helvetica, serif;
-    font-weight: bold;
+    font-weight: italic;
 	font-size: 2em;
     margin: 0px auto 10px auto;
 	font-size: 1.2em;
@@ -155,4 +155,7 @@ a{
 a:hover{
     background:#FFD700;
     opacity: .6; 
+    font-weight: bold;
 }
+
+
