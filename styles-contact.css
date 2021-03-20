@@ -155,7 +155,26 @@ a{
 a:hover{
     background:#FFD700;
     opacity: .6; 
-    font-weight: bold;
 }
 
-
+.center4 {
+    padding: 2%;
+    text-align: center;
+}
+nav2{
+    font-family: garamond;
+    font-size: 1.2em;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 2em;
+}
+b{
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+b:hover{
+    background:#FFD700;
+    opacity: 1; 
+}
